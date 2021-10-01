@@ -1,7 +1,7 @@
 package Firas;
 
-public class HW3 {
+public class Firasity {
     public static void main(String[] args) {
-        System.out.println("Test ");
+        System.out.println("فيراس");
     }
 }
