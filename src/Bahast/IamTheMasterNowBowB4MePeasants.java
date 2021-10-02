@@ -2,7 +2,7 @@ package Bahast;
 
 
 
-public class HW1 {
+public class IamTheMasterNowBowB4MePeasants {
     public static void main(String[] args) {
 
         System.out.println("Bahast The Sea-Man");
