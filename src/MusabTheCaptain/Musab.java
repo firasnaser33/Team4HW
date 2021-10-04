@@ -1,8 +1,8 @@
-package HW;
+package MusabTheCaptain;
 
 
 
-public class HW1 {
+public class Musab {
     public static void main(String[] args) {
 
         System.out.println("Firas was here");
