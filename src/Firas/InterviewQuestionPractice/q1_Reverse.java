@@ -1,4 +1,4 @@
-package Firas.InterviewQuestionPractice1;
+package Firas.InterviewQuestionPractice;
 
 public class q1_Reverse {
 
