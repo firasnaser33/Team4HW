@@ -6,7 +6,7 @@ public class reverse {
 //    Write a return method that can reverse  String
 //
 //    Ex: Reverse("ABCDE"); ==> EDCBA
-
+https://github.com/firasnaser33/Team4HW/blob/main/src/Recep/interviewQuestion/reverse.java
     //make a string to reverse
     // make empty string to store what you want to reverse
     //find length of string
