@@ -3,7 +3,7 @@ package TRE.M.mybranch.day19;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class tre {
+public class HomeWorks {
     public static void main(String[] args) {
 
 
